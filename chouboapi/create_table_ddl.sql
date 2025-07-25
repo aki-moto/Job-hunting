@@ -1,3 +1,4 @@
+create database accountbook
 CREATE TABLE list(
     id INT  NOT NULL AUTO_INCREMENT COMMENT'ID',
     day DATE NOT NULL COMMENT'日付',
